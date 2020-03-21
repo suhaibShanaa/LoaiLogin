@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#033b4f</color>
+    <color name="secundory">#2fc3ea</color>
+    <color name="third">#E9E4E6</color>
+    <color name="forth">#80afc1</color>
+    <color name="colorPrimaryDark">#033b4f</color>
+    <color name="colorAccent">#99333639</color>
+
+    //for color login and rigst input
+    <color name="input_Rigst">#048998</color>
+    <color name="input_Login">#048998</color>
+
+
+
+
+    <color name="btnS">#80afc1</color>
+    <color name="btnSA">#80afc1</color>
+    <color name="overlayBack">#80afc1</color>
+    <color name="overActionBar">#80afc1</color>
+
+    <color name="bgRowBackgound">#033b4f</color>
+    <color name="back_bottome_nav">#2fc3ea</color>
+    <color name="bottom_text">#F2F4F8</color>
+    <color name="cardView">#80afc1</color>
+</resources>
